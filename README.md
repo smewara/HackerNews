@@ -7,4 +7,4 @@ A simple command line application to download top N stories from HackerNews (htt
 3. Publish the project in local machine
 4. Call the published executable via command line as the following - 
 
-   HackerNews --posts n
+   Hackernews --posts n
