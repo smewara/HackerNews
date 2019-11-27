@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HackerNews": {
+      "commandName": "Project",
+      "commandLineArgs": "--posts 10"
+    }
+  }
+}
